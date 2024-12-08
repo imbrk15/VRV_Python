@@ -26,9 +26,10 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
    ```
-   Usage
-   Running the Script
-   To run the script and perform log analysis:
+
+### Usage
+
+To run the script and perform log analysis:
 
 ```bash
 python log_analysis.py
