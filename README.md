@@ -30,7 +30,8 @@ Make sure you have the following installed:
    Running the Script
    To run the script and perform log analysis:
 
-```python log_analysis.py
+```bash
+python log_analysis.py
 
 ```
 
