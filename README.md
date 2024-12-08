@@ -26,3 +26,16 @@ Make sure you have the following installed:
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
    ```
+   Usage
+   Running the Script
+   To run the script and perform log analysis:
+
+```python log_analysis.py
+
+```
+
+The script will read the log file (sample.log), process the data, and output results in results.csv.
+
+Parameters
+`sample.log`: You can replace this log file with your own logs to analyze different data.
+`results.csv`: This file will contain the analysis results in CSV format.
